@@ -1,0 +1,2 @@
+Read me 
+Día 1.2 Aprendemos acerca de los operadores condicionales

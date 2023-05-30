@@ -1,0 +1,2 @@
+Read me 
+Día 1 aprendemos acerca de las bases de lenguaje de Python
